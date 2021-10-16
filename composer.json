@@ -1,0 +1,17 @@
+{
+    "name": "anthony/projet_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Anthony\\ProjetComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Laurent",
+            "email": "anthony061214@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
